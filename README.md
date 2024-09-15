@@ -26,7 +26,7 @@ cd BioToolkit
 You can use the various tools in BioToolkit by running the corresponding scripts. Here's an example of how to use the sequence alignment tool:
 
 ```bash
-python seq_alignment.py --input data/sequences.fasta --output results/aligned_sequences.fasta
+python protein_analysis.py --input data/sequences.fasta --output results/aligned_sequences.fasta
 ```
 
 Check the `docs/` folder for detailed documentation on each tool.
